@@ -1,4 +1,5 @@
-[
+{
+   "tasks": [
   {
     "id": 1,
     "title": "Completar reporte mensual",
@@ -14,16 +15,5 @@
     ],
     "notes": "Asegúrate de incluir datos actualizados de ventas."
   },
-  {
-    "id": 2,
-    "title": "Planificar vacaciones",
-    "completed": true,
-    "dueDate": "2024-12-30",
-    "priority": "Media",
-    "category": "Personal",
-    "estimatedTime": 2,
-    "reminder": null,
-    "subtasks": [],
-    "notes": "Buscar alojamiento antes del 25 de diciembre."
-  }
-]
+   ]
+}
