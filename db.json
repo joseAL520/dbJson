@@ -1,19 +1,19 @@
 {
    "tasks": [
-  {
-    "id": 1,
-    "title": "Completar reporte mensual",
-    "completed": false,
-    "dueDate": "2024-12-22",
-    "priority": "Alta",
-    "category": "Trabajo",
-    "estimatedTime": 3,
-    "reminder": "2024-12-21T10:00:00",
-    "subtasks": [
-      { "id": 1, "title": "Revisar estadísticas", "completed": false },
-      { "id": 2, "title": "Redactar conclusiones", "completed": false }
-    ],
-    "notes": "Asegúrate de incluir datos actualizados de ventas."
-  },
+        {
+          "id": 1,
+          "title": "Completar reporte mensual",
+          "completed": false,
+          "dueDate": "2024-12-22",
+          "priority": "Alta",
+          "category": "Trabajo",
+          "estimatedTime": 3,
+          "reminder": "2024-12-21T10:00:00",
+          "subtasks": [
+            { "id": 1, "title": "Revisar estadísticas", "completed": false },
+            { "id": 2, "title": "Redactar conclusiones", "completed": false }
+          ],
+          "notes": "Asegúrate de incluir datos actualizados de ventas."
+        },
    ]
 }
